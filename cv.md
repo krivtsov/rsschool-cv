@@ -28,4 +28,4 @@ Since July 2019 - junior developer (node.js)
 
 ## English
 
-A2
+Level - A2
